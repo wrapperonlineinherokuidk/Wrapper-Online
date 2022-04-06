@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+VERBOSEWRAPPER="n"
+SKIPCHECKDEPENDS="n"
+AUTOUPDATE="y"
