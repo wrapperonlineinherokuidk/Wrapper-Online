@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-VERBOSEWRAPPER="n"
-SKIPCHECKDEPENDS="n"
-AUTOUPDATE="y"
-DISCORD_RPC="n"
